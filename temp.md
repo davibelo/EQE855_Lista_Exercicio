@@ -1,11 +1,2 @@
-Obrigado pela correção! Vou refazer os cálculos com a função correta:
-$$S(x_1, x_2) = 7.5x_1^2 + 12x_2^2 - 3x_1^2x_2^2 + 18x_1 + 11$$
-Agora, vou calcular o gradiente, encontrar os pontos estacionários, calcular a matriz Hessiana nesses pontos, e então determinar os autovalores para avaliar a natureza dos pontos estacionários. Vou corrigir o processo e te mostrar os resultados.
-Aqui estão os resultados com a função correta:
-### Pontos Estacionários e Natureza: 1. **Ponto Estacionário**: $(-2, -1)$ - **Autovalores da Matriz Hessiana**: $28.92$ e $-19.92$ - **Natureza**: Ponto de sela
-2. **Ponto Estacionário**: $(-2, 1)$ - **Autovalores da Matriz Hessiana**: $28.92$ e $-19.92$ - **Natureza**: Ponto de sela
-3. **Ponto Estacionário**: $(-1.2, 0)$ - **Autovalores da Matriz Hessiana**: $15.00$ e $15.36$ - **Natureza**: Mínimo local
-4. **Ponto Estacionário**: $(2, -2)$ - **Autovalores da Matriz Hessiana**: $-52.71$ e $43.71$ - **Natureza**: Ponto de sela
-5. **Ponto Estacionário**: $(2, 2)$ - **Autovalores da Matriz Hessiana**: $-52.71$ e $43.71$ - **Natureza**: Ponto de sela
-Dos pontos estacionários encontrados, o ponto $(-1.2, 0)$ é um **mínimo local**, enquanto os demais são **pontos de sela**.
-Se precisar de mais alguma coisa, como os gráficos solicitados no problema, estou à disposição!
+2\) Dada a função objetivo $S(x_1, x_2) = 7,5x_1^2 + 12x_2^2 - 3x_1^2x_2^2 + 18x_1 + 11$, determine a localização e a natureza (mínimo, máximo ou sela) dos seus pontos estacionários.
+Esboce o gráfico da superfície da função objetivo em função de $x_1$ e $x_2$ e outro gráfico com 50 curvas de níveis, ambos contendo todos os pontos estacionários encontrados. Indique no segundo gráfico a localização dos pontos estacionários.
